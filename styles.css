@@ -1,4 +1,4 @@
- header{
-    background: #000000;
+body {
+   background: linear-gradient(to bottom, white, black);
 
- }
+}
